@@ -11,14 +11,14 @@ Styled with radial gradients, shadows, and a modern glassy effect
 Fully responsive and visually engaging
 
 #Technologies Used
- HTML5** – Structure and clock elements
- CSS3** – Styling, gradients, and transformations
- JavaScript (ES6) – Logic to update clock hands every second
+ HTML5 – Structure and clock elements
+ CSS3 – Styling, gradients, and transformations
+ JavaScript(ES6) – Logic to update clock hands every second
 
 #Project Structure
-*index.html # Main HTML file
-*style.css # Styling and layout
-*script.js # Clock logic and hand rotation
+*index.html
+*style.css 
+*script.js 
 
 #How It Works
 The clock uses CSS custom properties (--rotate) to dynamically rotate each hand based on the current system time.
