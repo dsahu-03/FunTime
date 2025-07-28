@@ -2,7 +2,7 @@
 A modern, real-time analog clock built with HTML, CSS, and JavaScript. This project demonstrates DOM manipulation, CSS variables, and dynamic rotation using JavaScript's Date() object.
 
 #Preview
-<img width="2465" height="1348" alt="Screenshot png" src="https://github.com/user-attachments/assets/b885f9fa-3eac-4618-997a-d9afae0ecdb9" />
+<img width="465" height="348" alt="Screenshot png" src="https://github.com/user-attachments/assets/b885f9fa-3eac-4618-997a-d9afae0ecdb9" />
 
 #Features
 Real-time analog clock synced with the system time
